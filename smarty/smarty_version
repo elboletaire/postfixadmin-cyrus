@@ -1,0 +1,6 @@
+$Id: smarty_version 1288 2011-11-27 23:12:52Z christian_boltz $
+
+Smarty version: 3.1.5
+
+Additional files (not part of the official Smarty release):
+- libs/plugins/modifier.needle.php
